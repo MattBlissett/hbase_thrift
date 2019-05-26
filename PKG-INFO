@@ -1,6 +1,6 @@
-Metadata-Version: 1.1
+Metadata-Version: 2.0
 Name: hbase-thrift
-Version: 0.98.20
+Version: 0.98.21
 Summary: Python client for HBase Thrift interface
 Home-page: http://hbase.org/
 Author: Matthew Blissett
